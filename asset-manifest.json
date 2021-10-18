@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/szymi/static/css/main.9e6150ad.chunk.css",
-    "main.js": "/szymi/static/js/main.aa55b47f.chunk.js",
-    "main.js.map": "/szymi/static/js/main.aa55b47f.chunk.js.map",
+    "main.js": "/szymi/static/js/main.bc5e4855.chunk.js",
+    "main.js.map": "/szymi/static/js/main.bc5e4855.chunk.js.map",
     "runtime-main.js": "/szymi/static/js/runtime-main.c17c2111.js",
     "runtime-main.js.map": "/szymi/static/js/runtime-main.c17c2111.js.map",
     "static/js/2.a73324ac.chunk.js": "/szymi/static/js/2.a73324ac.chunk.js",
@@ -13,12 +13,31 @@
     "static/css/main.9e6150ad.chunk.css.map": "/szymi/static/css/main.9e6150ad.chunk.css.map",
     "static/js/2.a73324ac.chunk.js.LICENSE.txt": "/szymi/static/js/2.a73324ac.chunk.js.LICENSE.txt",
     "static/media/atleta.696072d5.jpeg": "/szymi/static/media/atleta.696072d5.jpeg",
-    "static/media/logo.0159ae03.jpeg": "/szymi/static/media/logo.0159ae03.jpeg"
+    "static/media/blachara.e4ee47f5.jpeg": "/szymi/static/media/blachara.e4ee47f5.jpeg",
+    "static/media/dojebany.d036a5c1.png": "/szymi/static/media/dojebany.d036a5c1.png",
+    "static/media/elegant.19f13193.jpeg": "/szymi/static/media/elegant.19f13193.jpeg",
+    "static/media/fighter.16073cba.jpeg": "/szymi/static/media/fighter.16073cba.jpeg",
+    "static/media/gangster.f539f4db.jpeg": "/szymi/static/media/gangster.f539f4db.jpeg",
+    "static/media/gotowy.012b0cbc.jpeg": "/szymi/static/media/gotowy.012b0cbc.jpeg",
+    "static/media/jajcarz.22c7a9d9.jpeg": "/szymi/static/media/jajcarz.22c7a9d9.jpeg",
+    "static/media/kielba.856b1e4a.jpeg": "/szymi/static/media/kielba.856b1e4a.jpeg",
+    "static/media/kitka.af0d0502.jpeg": "/szymi/static/media/kitka.af0d0502.jpeg",
+    "static/media/lodzik.ecf89bae.png": "/szymi/static/media/lodzik.ecf89bae.png",
+    "static/media/logo.0159ae03.jpeg": "/szymi/static/media/logo.0159ae03.jpeg",
+    "static/media/raper.96717749.jpeg": "/szymi/static/media/raper.96717749.jpeg",
+    "static/media/relaks.364534d8.png": "/szymi/static/media/relaks.364534d8.png",
+    "static/media/ruhacz.466376dc.png": "/szymi/static/media/ruhacz.466376dc.png",
+    "static/media/smieszek.e9130948.jpeg": "/szymi/static/media/smieszek.e9130948.jpeg",
+    "static/media/smoker.72ba838b.png": "/szymi/static/media/smoker.72ba838b.png",
+    "static/media/stylowy.239eddbf.jpeg": "/szymi/static/media/stylowy.239eddbf.jpeg",
+    "static/media/support.7b553d95.jpeg": "/szymi/static/media/support.7b553d95.jpeg",
+    "static/media/wujas.e9e529a8.png": "/szymi/static/media/wujas.e9e529a8.png",
+    "static/media/ziomal.c6e2007d.jpeg": "/szymi/static/media/ziomal.c6e2007d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c17c2111.js",
     "static/js/2.a73324ac.chunk.js",
     "static/css/main.9e6150ad.chunk.css",
-    "static/js/main.aa55b47f.chunk.js"
+    "static/js/main.bc5e4855.chunk.js"
   ]
 }

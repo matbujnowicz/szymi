@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/szymi/static/css/main.9e6150ad.chunk.css",
-    "main.js": "/szymi/static/js/main.6f33a99c.chunk.js",
-    "main.js.map": "/szymi/static/js/main.6f33a99c.chunk.js.map",
+    "main.js": "/szymi/static/js/main.aa55b47f.chunk.js",
+    "main.js.map": "/szymi/static/js/main.aa55b47f.chunk.js.map",
     "runtime-main.js": "/szymi/static/js/runtime-main.c17c2111.js",
     "runtime-main.js.map": "/szymi/static/js/runtime-main.c17c2111.js.map",
     "static/js/2.a73324ac.chunk.js": "/szymi/static/js/2.a73324ac.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/szymi/index.html",
     "static/css/main.9e6150ad.chunk.css.map": "/szymi/static/css/main.9e6150ad.chunk.css.map",
     "static/js/2.a73324ac.chunk.js.LICENSE.txt": "/szymi/static/js/2.a73324ac.chunk.js.LICENSE.txt",
+    "static/media/atleta.696072d5.jpeg": "/szymi/static/media/atleta.696072d5.jpeg",
     "static/media/logo.0159ae03.jpeg": "/szymi/static/media/logo.0159ae03.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c17c2111.js",
     "static/js/2.a73324ac.chunk.js",
     "static/css/main.9e6150ad.chunk.css",
-    "static/js/main.6f33a99c.chunk.js"
+    "static/js/main.aa55b47f.chunk.js"
   ]
 }

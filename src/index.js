@@ -3,10 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Front from './front/index';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <Front />
+    <Router>
+      <Switch>
+        <Route exact path="/szymi">
+          <Front />
+        </Route>
+      </Switch>
+    </Router>
   </React.StrictMode>,
   document.getElementById('root')
 );

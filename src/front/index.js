@@ -15,6 +15,7 @@ function Front() {
   );
 
   function startLoading() {
+    if(loading) return
     setLoading(true)
     setTimeout(callback,2000)
   }
